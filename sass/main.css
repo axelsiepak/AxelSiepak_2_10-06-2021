@@ -259,8 +259,8 @@ body, html {
   border-radius: 100px;
   color: white;
   background-color: #686868;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(100%));
-  background-image: linear-gradient(0deg, 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#9356DC), to(#FF79DA));
+  background-image: linear-gradient(0deg, #9356DC, #FF79DA 100%);
   cursor: pointer;
   -webkit-transition-duration: 0.25s;
           transition-duration: 0.25s;
@@ -558,8 +558,8 @@ body, html {
 }
 
 .menu__like {
-  -webkit-transition-duration: .25s;
-          transition-duration: .25s;
+  -webkit-transition-duration: .5s;
+          transition-duration: .5s;
   background-color: #f6f6f6;
   position: absolute;
   top: 0;
@@ -793,8 +793,8 @@ body, html {
   border-radius: 100px;
   color: white;
   background-color: #686868;
-  background-image: -webkit-gradient(linear, left bottom, left top, from(100%));
-  background-image: linear-gradient(0deg, 100%);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#9356DC), to(#FF79DA));
+  background-image: linear-gradient(0deg, #9356DC, #FF79DA 100%);
   cursor: pointer;
   -webkit-transition-duration: 0.25s;
           transition-duration: 0.25s;

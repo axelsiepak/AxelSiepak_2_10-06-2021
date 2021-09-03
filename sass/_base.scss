@@ -14,7 +14,7 @@ body, html {
   border-radius: 100px;
   color: white;
   background-color: rgb(104, 104, 104);
-  background-image: linear-gradient(0deg, 100%);
+  background-image: linear-gradient(0deg, $color-primary, $color-secondary 100%);
   cursor: pointer;
   transition-duration: 0.25s;
   box-shadow: 0.25rem 0.25rem 10px rgba(0, 0, 0, 0.25);
