@@ -61,7 +61,7 @@ Vous pouvez retrouver le [brief complet ici](https://s3-eu-west-1.amazonaws.com/
 
 Pour tester, clonez le projet
 ```terminal
-git clone https://github.com/axelsiepak/AxelSiepak_2_27042021.git
+git clone https://github.com/axelsiepak/AxelSiepak_3_10062021.git
 ```
 Installez les dépendances
 ```terminal
