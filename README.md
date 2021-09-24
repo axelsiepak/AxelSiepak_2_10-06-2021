@@ -1,6 +1,6 @@
 # AxelSiepak_4_08092021
 
-Test de performance light house
+##Test de performance light house
 
 Desktop (Accueil)
 Performance: 84
@@ -43,6 +43,12 @@ SEO: 100 (+22)
 Desktop (Contact)
 Performance: 100 (+0)
 Accessibilité: 100 (+24)
+
+# Validation W3C
+
+[W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Findex.html)
+[W3C validator contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Fcontact.html)
+
 Meilleures pratiques: 93 (+0)
 SEO: 100 (+10)
 
