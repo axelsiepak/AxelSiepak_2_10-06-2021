@@ -43,12 +43,6 @@ SEO: 100 (+22)
 Desktop (Contact)
 Performance: 100 (+0)
 Accessibilité: 100 (+24)
-
-# Validation W3C
-
-[W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Findex.html)
-[W3C validator contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Fcontact.html)
-
 Meilleures pratiques: 93 (+0)
 SEO: 100 (+10)
 
@@ -57,3 +51,8 @@ Performance: 93 (-6)
 Accessibilité: 100 (+24)
 Meilleures pratiques: 93 (+0)
 SEO: 100 (+19)
+
+# Validation W3C
+
+[W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Findex.html)
+[W3C validator contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Faxelsiepak.github.io%2Fcontact.html)
